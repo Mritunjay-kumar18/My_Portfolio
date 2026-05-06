@@ -63,7 +63,7 @@ The project is deployed using:
 * GitHub Pages
 
 
-👉 GitHub Repository: **
+👉 GitHub Repository: *https://github.com/Mritunjay-kumar18/My_Portfolio*
 
 ---
 
